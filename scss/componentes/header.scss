@@ -1,0 +1,28 @@
+.encabezado { 
+    background-color: rgba(255, 255, 0, 0.466);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    display: flex;
+    .navBar{
+        
+        .navBarDos {
+            .imagenLogo {
+                height: 55px;
+            }
+        }
+    }
+}
+
+.encabezado {
+    
+    .opcionesMenu {
+        font-size: 17px;
+        justify-content: flex-end;
+        .opcionItem {
+
+            color: black;
+
+        }
+    
+        
+    }
+}
